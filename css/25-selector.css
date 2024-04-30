@@ -1,1 +1,21 @@
 /* CSS 선택자(Selector) */
+
+* {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.note {
+  color: green;
+}
+
+#summer {
+  color: purple;
+}
+
+a[href] {
+  color: orange;
+}
